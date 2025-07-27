@@ -84,4 +84,10 @@ This dashboard can help business users and decision-makers:
 
 🔗 *To view a walkthrough or download the PBIX file, please check the `/reports` in this repo.*
 
+Data Source: Kaggle.
+
+📬 Let's Connect Feel free to connect if you have feedback or suggestions.
+
+📧 chandranidas234@gmail.com • 💼 https://www.linkedin.com/in/das-chandrani369/ • 📁 [Portfolio Link- Coming soon!]
+
 
