@@ -86,7 +86,9 @@ This dashboard can help business users and decision-makers:
 
 Data Source: Kaggle.
 
-📬 Let's Connect Feel free to connect if you have feedback or suggestions.
+📬 Let's Connect:
+
+Feel free to connect if you have feedback or suggestions.
 
 📧 chandranidas234@gmail.com • 💼 https://www.linkedin.com/in/das-chandrani369/ • 📁 [Portfolio Link- Coming soon!]
 
